@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B4168B91-47E0-4B89-A507-7AB8A2079923}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>login1</RootNamespace>
+    <AssemblyName>login1</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ManifestCertificateThumbprint>B3304C2D42B96E88E47CB38A14714BDAC9225685</ManifestCertificateThumbprint>
+    <ManifestKeyFile>login1_1_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\final version1\login1\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bAppointment.cs" />
+    <Compile Include="bChangePassword.cs" />
+    <Compile Include="bDoctor.cs" />
+    <Compile Include="bLab.cs" />
+    <Compile Include="blogin.cs" />
+    <Compile Include="bpatientInfo.cs" />
+    <Compile Include="bPharmacy.cs" />
+    <Compile Include="bRegistration.cs" />
+    <Compile Include="changePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changePasswordForm.designer.cs">
+      <DependentUpon>changePasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dbAppointment.cs" />
+    <Compile Include="dbChangePassword.cs" />
+    <Compile Include="dbConnection.cs" />
+    <Compile Include="dbDoctor.cs" />
+    <Compile Include="dbLab.cs" />
+    <Compile Include="dbLogin.cs" />
+    <Compile Include="dbPharmacy.cs" />
+    <Compile Include="dbregistration.cs" />
+    <Compile Include="f_DoctorHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_DoctorHome.designer.cs">
+      <DependentUpon>f_DoctorHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="f_Lab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_Lab.designer.cs">
+      <DependentUpon>f_Lab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="f_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_Login.designer.cs">
+      <DependentUpon>f_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="f_PatientDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_PatientDetails.designer.cs">
+      <DependentUpon>f_PatientDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="f_PharmacyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_PharmacyForm.designer.cs">
+      <DependentUpon>f_PharmacyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="f_PharmacyHomeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_PharmacyHomeScreen.designer.cs">
+      <DependentUpon>f_PharmacyHomeScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="f_ReceptionHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_ReceptionHome.designer.cs">
+      <DependentUpon>f_ReceptionHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="f_ScheduleAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f_ScheduleAppointment.designer.cs">
+      <DependentUpon>f_ScheduleAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LabTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LabTest.designer.cs">
+      <DependentUpon>LabTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="changePasswordForm.resx">
+      <DependentUpon>changePasswordForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_DoctorHome.resx">
+      <DependentUpon>f_DoctorHome.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_Lab.resx">
+      <DependentUpon>f_Lab.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_Login.resx">
+      <DependentUpon>f_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_PatientDetails.resx">
+      <DependentUpon>f_PatientDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_PharmacyForm.resx">
+      <DependentUpon>f_PharmacyForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_PharmacyHomeScreen.resx">
+      <DependentUpon>f_PharmacyHomeScreen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_ReceptionHome.resx">
+      <DependentUpon>f_ReceptionHome.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f_ScheduleAppointment.resx">
+      <DependentUpon>f_ScheduleAppointment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LabTest.resx">
+      <DependentUpon>LabTest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="login1_1_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ramaniDataSet.xsc">
+      <DependentUpon>ramaniDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ramaniDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ramaniDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ramaniDataSet.xss">
+      <DependentUpon>ramaniDataSet.xsd</DependentUpon>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ramaniDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ramaniDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="validationOfForms.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginscreen.jpg" />
+    <None Include="Resources\BKGND1.jpg" />
+    <None Include="Resources\logo.gif" />
+    <Content Include="Resources\master04_background1.gif" />
+    <None Include="login1_TemporaryKey.pfx" />
+    <None Include="Resources\master04_background11.gif" />
+    <Content Include="Resources\Medical_S1.jpg" />
+    <None Include="Resources\Medical_S11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

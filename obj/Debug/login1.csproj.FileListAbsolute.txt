@@ -1,0 +1,90 @@
+D:\master\login1\login1\bin\Debug\login1.exe
+D:\master\login1\login1\bin\Debug\login1.pdb
+D:\master\login1\login1\obj\Debug\ResolveAssemblyReference.cache
+D:\master\login1\login1\obj\Debug\login1.Form1.resources
+D:\master\login1\login1\obj\Debug\login1.Properties.Resources.resources
+D:\master\login1\login1\obj\Debug\login1.csproj.GenerateResource.Cache
+D:\master\login1\login1\obj\Debug\login1.exe
+D:\master\login1\login1\obj\Debug\login1.pdb
+D:\master\login1\login1\obj\Debug\login1.f_PatientDetails.resources
+D:\master\login1\login1\obj\Debug\login1.changePasswordForm.resources
+D:\master\login1\login1\bin\Debug\login1.exe.config
+D:\master\login1\login1\obj\Debug\login1.f_ReceptionHome.resources
+D:\master\login1\login1\obj\Debug\login1.f_Lab.resources
+D:\master\login1\login1\obj\Debug\login1.labTest.resources
+D:\master\login1\login1\obj\Debug\login1.f_ScheduleAppointment.resources
+D:\master\login1\login1\obj\Debug\login1.f_DoctorHome.resources
+D:\master\login1\login1\obj\Debug\login1.f_PharmacyForm.resources
+D:\master\login1\login1\obj\Debug\login1.f_PharmacyHomeScreen.resources
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\bin\Debug\login1.exe.config
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.exe
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.changePasswordForm.resources
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.f_DoctorHome.resources
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.f_Lab.resources
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.Form1.resources
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.f_PatientDetails.resources
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.f_PharmacyForm.resources
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.f_PharmacyHomeScreen.resources
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.f_ReceptionHome.resources
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.f_ScheduleAppointment.resources
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.labTest.resources
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.Properties.Resources.resources
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.csproj.GenerateResource.Cache
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\bin\Debug\login1.exe
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\bin\Debug\login1.pdb
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.pdb
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\bin\Debug\login1.exe.manifest
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\bin\Debug\login1.application
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.exe.manifest
+C:\Users\Sindhu\Desktop\priya\login1Sep 25 2.2\login1\obj\Debug\login1.application
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\bin\Debug\login1.exe.config
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.exe
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.pdb
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.changePasswordForm.resources
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_DoctorHome.resources
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_Lab.resources
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.Form1.resources
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_PatientDetails.resources
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_PharmacyForm.resources
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_PharmacyHomeScreen.resources
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_ReceptionHome.resources
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_ScheduleAppointment.resources
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.labTest.resources
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.Properties.Resources.resources
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.csproj.GenerateResource.Cache
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\bin\Debug\login1.exe.manifest
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\bin\Debug\login1.application
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\bin\Debug\login1.exe
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\bin\Debug\login1.pdb
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.exe.manifest
+C:\Users\Sindhu\Desktop\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.application
+C:\Users\Sindhu\Desktop\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\bin\Debug\login1.exe.config
+C:\Users\Sindhu\Desktop\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.exe
+C:\Users\Sindhu\Desktop\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.pdb
+D:\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\bin\Debug\login1.exe.config
+D:\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.exe
+D:\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.pdb
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\bin\Debug\login1.exe.config
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.exe
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.pdb
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.csprojResolveAssemblyReference.cache
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.changePasswordForm.resources
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_DoctorHome.resources
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_Lab.resources
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.Form1.resources
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_PatientDetails.resources
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_PharmacyForm.resources
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_PharmacyHomeScreen.resources
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_ReceptionHome.resources
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.f_ScheduleAppointment.resources
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.labTest.resources
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.Properties.Resources.resources
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.csproj.GenerateResource.Cache
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\bin\Debug\login1.exe.manifest
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\bin\Debug\login1.application
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\bin\Debug\login1.exe
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\bin\Debug\login1.pdb
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.exe.manifest
+C:\Users\Narasimha\Desktop\sindhu\harddisk retreival\My data\sindhu\CERNER\sinpri\Final5.0\login1Sep 25 2.2\login1\obj\Debug\login1.application
